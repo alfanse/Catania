@@ -1,0 +1,12 @@
+#Git Ignore list#
+build
+.gradle
+gradle
+gradlew
+.idea
+*.iml
+.DS_Store
+*.ipr
+*.iws
+out
+*.pdf
